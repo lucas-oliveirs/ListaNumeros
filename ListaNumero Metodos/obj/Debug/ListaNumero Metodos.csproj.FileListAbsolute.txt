@@ -1,0 +1,42 @@
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe.config
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.pdb
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csprojAssemblyReference.cache
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csproj.CoreCompileInputs.cache
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.exe
+I:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.pdb
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe.config
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.pdb
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csprojAssemblyReference.cache
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csproj.CoreCompileInputs.cache
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.exe
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.pdb
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe.config
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.pdb
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csprojAssemblyReference.cache
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csproj.CoreCompileInputs.cache
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.exe
+E:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.pdb
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe.config
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.pdb
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csprojAssemblyReference.cache
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csproj.CoreCompileInputs.cache
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.exe
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.pdb
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csprojAssemblyReference.cache
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csproj.CoreCompileInputs.cache
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.exe
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.pdb
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe.config
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe
+D:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.pdb
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe.config
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.exe
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\bin\Debug\ListaNumero Metodos.pdb
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csprojAssemblyReference.cache
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.csproj.CoreCompileInputs.cache
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.exe
+F:\ETEC\TPA\2 SEM\ListaNumero Metodos - teste\ListaNumero Metodos\obj\Debug\ListaNumero Metodos.pdb
